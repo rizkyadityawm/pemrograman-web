@@ -1,6 +1,0 @@
-CREATE TABLE user (
-    Id INT AUTO_INCREMENT PRIMARY KEY,
-    Nama VARCHAR(255),
-    Username VARCHAR(32),
-    Password VARCHAR(255)
-);
